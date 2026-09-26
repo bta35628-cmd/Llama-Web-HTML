@@ -8,3 +8,4 @@ LlamaAI HTML
 - History: localStorage
 Open index.html in Chrome/Edge.
 If the browser reports a CORS error, the endpoint must allow the page origin; no HTML-only app can bypass browser CORS.
+link LlamaAI : https://llama.edgeone.dev/
