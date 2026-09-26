@@ -9,3 +9,4 @@ LlamaAI HTML
 Open index.html in Chrome/Edge.
 If the browser reports a CORS error, the endpoint must allow the page origin; no HTML-only app can bypass browser CORS.
 link LlamaAI : https://llama.edgeone.dev/
+link GPT 4o : https://gpt-4o-render-1.onrender.com/
